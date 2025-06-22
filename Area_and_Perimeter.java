@@ -28,7 +28,5 @@ public class Area_and_Perimeter {
         // Displaying results
         System.out.println("Area of Rectangle = " + area);
         System.out.println("Perimeter of Rectangle = " + perimeter);
-
-        sc.close();
     }
 }

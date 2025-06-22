@@ -24,6 +24,5 @@ public class Recursion {
         // Display result
         System.out.println("Factorial of " + num + " is: " + result);
 
-        sc.close();
     }
 }
